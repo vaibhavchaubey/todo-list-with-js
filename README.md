@@ -1,5 +1,6 @@
 # To-Do List
-This is a simple To-Do List where user can add daily tasks. In this i have implemented CRUD Operation i.e. user can create, read, update and delete the items in the list
+This is a simple To-Do List where user can add daily tasks. <br />
+In this I have implemented **CRUD** Operation i.e. user can create, read, update and delete the items in the list
 
 ![Image-1](readme-img/Pic_1.png)
 
